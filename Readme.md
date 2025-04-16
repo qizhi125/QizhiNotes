@@ -16,24 +16,19 @@
 ## 截图
 
 登录界面
-
-![image-20250416155742576](/home/qizhi/Documents/Typora Note/Android_Test/登录界面.png)
+<img src="登录界面.jpg" width="300">
 
 注册界面
-
-![image-20250416155835471](/home/qizhi/Documents/Typora Note/Android_Test/image-20250416155835471-1744790318663-2.png)
+<img src="注册界面.jpg" width="300">
 
 主界面
+<img src="主界面.jpg" width="300">
 
-![image-20250416155852864](/home/qizhi/Documents/Typora Note/Android_Test/image-20250416155852864-1744790337352-4.png)
-
-添加界面
-
-![image-20250416155914691](/home/qizhi/Documents/Typora Note/Android_Test/image-20250416155914691-1744790357398-6.png)
+添加笔记界面
+<img src="添加笔记界面.jpg" width="300">
 
 添加后主界面效果
-
-![image-20250416155927272](/home/qizhi/Documents/Typora Note/Android_Test/image-20250416155927272-1744790372141-8.png)
+<img src="添加笔记后的主页面.jpg" width="300">
 
 ## 目录结构
 
