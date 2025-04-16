@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <exclude
+            domain="database"
+            path="notes.db" />
+    <exclude
+        domain="sharedpref"
+        path="UserPrefs.xml" />
+    <exclude domain="sharedpref" path="device.xml" />
+</full-backup-content>

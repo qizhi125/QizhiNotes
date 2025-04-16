@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">随笔</string>
+    <string name="title_activity_login">用户登录</string>
+    <string name="title_activity_register">注册账户</string>
+    <string name="title_activity_add_info">添加/编辑笔记</string>
+
+    <string name="login_title">用户登录</string>
+    <string name="login_username_label">用户名：</string>
+    <string name="hint_username">请输入用户名</string>
+    <string name="login_password_label">密    码：</string>
+    <string name="hint_password">请输入密码</string>
+    <string name="checkbox_remember_me">记住密码</string>
+    <string name="login_button_cancel">取消</string>
+    <string name="button_login">登录</string>
+    <string name="link_go_to_register">没有账户？点此注册</string>
+    <string name="login_toast_empty_credentials">请输入用户名和密码</string>
+    <string name="error_incorrect_password">用户名或密码错误</string>
+    <string name="login_failed">登录失败</string>
+    <string name="login_successful">登录成功</string>
+
+    <string name="register_title">创建账户</string>
+    <string name="hint_confirm_password">确认密码</string>
+    <string name="button_register">注册</string>
+    <string name="link_back_to_login">已有账户？点此登录</string>
+    <string name="error_password_mismatch">两次输入的密码不一致</string>
+    <string name="error_username_exists">用户名已被占用</string>
+    <string name="registration_successful">注册成功！请登录。</string>
+    <string name="registration_failed">注册失败</string>
+
+    <string name="main_tagline">愿这小小的笔记，记下我生活中的点点滴滴</string>
+    <string name="add_memo">添加笔记</string>
+    <string name="empty_memo_list">还没有笔记，点击右下角按钮添加一个吧！</string>
+    <string name="main_toast_load_error">加载笔记失败</string>
+    <string name="confirm_delete_title">确认删除</string>
+    <string name="confirm_delete_message">您确定要删除这条笔记吗？</string>
+    <string name="delete">删除</string>
+    <string name="memo_deleted_success">笔记已删除</string>
+    <string name="memo_deleted_fail">笔记删除失败</string>
+
+    <string name="hint_title">笔记的标题</string>
+    <string name="hint_content">笔记的内容</string>
+    <string name="add_image_prompt">请选用下面的任一种方式，添加一张图片:</string>
+    <string name="button_camera">拍照</string>
+    <string name="button_gallery">从图库中选择</string>
+    <string name="button_save">保存</string>
+    <string name="add_toast_empty_title">标题不能为空</string>
+    <string name="error_empty_note">无法保存空笔记</string>
+    <string name="default_note_title">随笔</string>
+    <string name="memo_saved_success">保存成功</string>
+    <string name="memo_saved_fail">保存失败</string>
+    <string name="add_toast_save_error">保存时发生错误</string>
+    <string name="error_loading_image">图片加载失败</string>
+    <string name="error_creating_file">无法创建图片文件</string>
+    <string name="add_toast_dir_creation_error">无法创建目录: %s</string>
+    <string name="error_no_camera_app">找不到相机应用</string>
+    <string name="add_toast_uri_load_attempt">无法获取图片文件路径，尝试直接加载URI</string>
+    <string name="add_toast_operation_cancelled">操作已取消</string>
+    <string name="error_file_provider">文件提供器设置错误</string>
+    <string name="error_camera_intent">无法启动相机</string>
+    <string name="error_no_gallery_app">找不到图库应用</string>
+
+    <string name="item_default_title">标题</string>
+    <string name="item_default_content">内容</string>
+    <string name="item_default_time">时间</string>
+
+    <string name="error_field_required">此项不能为空</string>
+    <string name="error_invalid_password_short">密码过短 (至少4位)</string>
+
+    <string name="permission_denied_camera_storage">需要相机和存储权限才能拍照。</string>
+    <string name="permission_denied_storage_read">需要存储权限才能从图库选择图片。</string>
+    <string name="add_toast_no_camera_app">找不到可以支持的相机设备</string>
+
+    <string name="cd_preview_image">预览图片</string>
+    <string name="cd_memo_item_image">随笔图片</string>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    <string name="memo_list">随笔列表</string>
+</resources>

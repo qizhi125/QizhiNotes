@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Qizhinotes" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/teal_200</item> <item name="colorPrimaryVariant">@color/teal_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/purple_200</item>
+        <item name="colorSecondaryVariant">@color/purple_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:textColorPrimary">@color/text_color_light_primary</item>
+        <item name="android:textColorSecondary">@color/text_color_light_secondary</item>
+        <item name="android:textColorHint">@color/text_color_hint_light</item>
+        <item name="editTextStyle">@style/Widget.App.EditText</item>
+        <item name="buttonStyle">@style/Widget.App.Button</item>
+        <item name="checkboxStyle">@style/Widget.App.CheckBox</item>
+        <item name="android:textViewStyle">@style/Widget.App.TextView</item>
+        <item name="android:textColorLink">@color/link_color_light</item>
+
+    </style>
+</resources>
